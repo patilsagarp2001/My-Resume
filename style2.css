@@ -1,0 +1,100 @@
+body{
+
+	font-family: sans-serif;
+	background-image: url("back2.jpeg");
+  	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;  
+	padding:0px;
+	margin:0px;
+	overflow-x: hidden;
+    
+}
+.heading{
+	text-align: center;
+	background-color:yellow;
+	font-family: verdana; 
+	font-weight:bold;
+}
+.photo{
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	border-radius: 15px;
+}
+.myimg{
+	box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 10px;
+	margin:5%;
+
+}
+
+.name ,.branch{
+		color: white; 
+		font-family: verdana; 
+		font-weight:bold;
+		text-align: center;
+}
+
+.objective{
+	padding-top:50px;
+	//color: #ffffff;
+	font-family: verdana; 
+	font-weight:bold;
+	
+}
+
+.about{
+	//color: #ffffff;
+	font-family:verdana; 
+	font-weight:bold;
+}
+
+
+.education{
+	font-size: 110%;
+	border-radius: 0px 50px;
+	//border-radius: 2%;
+	padding:5%;
+	padding-top: 0%;
+	background-color:white;
+  	box-sizing: border-box;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);		
+}
+
+
+
+table{
+	text-align:center;
+	border-collapse: collapse;
+	width: 100%;
+	border:3px solid black;
+
+}
+th, td{
+	text-align: center;
+	padding: 8px;
+	border:2px solid black;
+
+}
+
+h3{
+	font-weight:bold;
+}
+
+
+
+
+
+
+.footer{
+	margin-left:20px;
+	margin-right:20px;
+	margin-top:20px;
+	color: #ffffff;
+	background-color:black;
+}
+
+
+
+
